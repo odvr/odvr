@@ -1,7 +1,7 @@
 <h1 align="center">Hola ! Mi nombre es David Vega</h1>
 <h3 align="center">Ingeniero de Sistemas, Desarrollador backend developer Colombia</h3>
 
-- 🔭 Renta Car [Ruta Ganadera)](https://ganaderia.sinarca.co/)
+- 🔭 Sinarca [Ruta Ganadera)](https://ganaderia.sinarca.co/)
 
 - 🌱 Algoritmo de optimización de costos para envíos **https://github.com/odvr/Optimizaci-n_De_Costos/blob/master/dijkstra_algorithm.py**
 
